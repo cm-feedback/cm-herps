@@ -1,0 +1,343 @@
+Report for Institution Code CM, Resource cm_herps
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 301
+Number of records retrieved in searches: 5470
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: Canada ; Times: 2
+	Country: Australia ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 36
+	Country: Unknown ; Times: 22
+	Country: Singapore ; Times: 2
+	Country: United Kingdom ; Times: 6
+	Country: Croatia ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Puerto Rico ; Times: 2
+	Country: Germany ; Times: 5
+	Country: Argentina ; Times: 1
+	Country: United States ; Times: 186
+	Country: Russia ; Times: 14
+	Country: Spain ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-04 ; Times: 20
+	Date: 2016-03-11 ; Times: 29
+	Date: 2016-03-12 ; Times: 16
+	Date: 2016-03-10 ; Times: 20
+	Date: 2016-03-08 ; Times: 31
+	Date: 2016-03-09 ; Times: 44
+	Date: 2016-03-06 ; Times: 16
+	Date: 2016-03-07 ; Times: 18
+	Date: 2016-03-14 ; Times: 27
+	Date: 2016-03-05 ; Times: 16
+	Date: 2016-03-02 ; Times: 23
+	Date: 2016-03-03 ; Times: 9
+	Date: 2016-03-13 ; Times: 17
+	Date: 2016-03-01 ; Times: 15
+
+List of queries that retrieved data from the resource: 
+	Query: "CATALINA" ; Times: 1
+	Query: "Sheldon" ; Times: 2
+	Query: "genus:Chioglossa specificepithet:lusitanica" ; Times: 1
+	Query: "WILLETT" ; Times: 1
+	Query: "Tupinambis" ; Times: 1
+	Query: "29992" ; Times: 2
+	Query: "nyctixalus" ; Times: 1
+	Query: "Ambystoma jeffersonianum maryland" ; Times: 1
+	Query: "specificepithet:schmidti genus:amphisbaena mappable:1" ; Times: 1
+	Query: "locality:Ruta Nacional 12 country:&#34;Argentina&#34;" ; Times: 1
+	Query: "calvert" ; Times: 1
+	Query: "Canada Goose" ; Times: 1
+	Query: "Ficimia publia" ; Times: 1
+	Query: "genus:Euphlyctis specificepithet:hexadactylus" ; Times: 2
+	Query: "Cowan" ; Times: 1
+	Query: "95588" ; Times: 1
+	Query: "VIPERA" ; Times: 2
+	Query: "specificepithet:costatus genus:Celestus island:Hispaniola" ; Times: 1
+	Query: "sphenodon" ; Times: 1
+	Query: "wislizenii washoe county" ; Times: 1
+	Query: "Gehyra brevipalmata" ; Times: 2
+	Query: "gopherus polyphemus" ; Times: 1
+	Query: "phyllomedusa bicolor" ; Times: 1
+	Query: "Crotalus polystictus" ; Times: 2
+	Query: "cienega de flores distance(location,geopoint(25.942239101010102,-100.05952298641205))&lt;100000" ; Times: 1
+	Query: "anolis hastypestatus:1" ; Times: 1
+	Query: "Heloderma horridum horridum" ; Times: 1
+	Query: "Crotalus pricei" ; Times: 1
+	Query: "Ptychohyla" ; Times: 1
+	Query: "gregg" ; Times: 2
+	Query: "ameiva" ; Times: 1
+	Query: "coleonyx elegans" ; Times: 2
+	Query: "monterrey distance(location,geopoint(25.942239101010102,-100.05952298641205))&lt;100000" ; Times: 2
+	Query: "pseudemys concinna" ; Times: 2
+	Query: "desmognathus monticola bier" ; Times: 1
+	Query: "necturus north carolina" ; Times: 1
+	Query: "class:Amphibia country:&#34;Brazil&#34; (BELEM) year &lt;= 1971" ; Times: 1
+	Query: "Triangulum genus:Lampropeltis stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Rhinoclemmys stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "giraffe" ; Times: 1
+	Query: "Beni Bolivia Amphibia" ; Times: 1
+	Query: "Plethodon larselli" ; Times: 2
+	Query: "Bufo retiformis" ; Times: 2
+	Query: "Sistrurus miliarius" ; Times: 5
+	Query: "chrysopelea hong kong" ; Times: 2
+	Query: "Nebraska" ; Times: 1
+	Query: "class:Amphibia country:&#34;Brazil&#34; AND (Belem) year &lt;= 1971" ; Times: 1
+	Query: "Stilosoma extenuatum stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "diadophis punctatus" ; Times: 2
+	Query: "specificepithet:carolina genus:terrapene institutioncode:CM" ; Times: 1
+	Query: "puebla" ; Times: 1
+	Query: "SCELOPORUS CYANOSTICTUS 147644" ; Times: 1
+	Query: "crotalus tigris" ; Times: 1
+	Query: "Crotalus cerberus" ; Times: 4
+	Query: "11054" ; Times: 1
+	Query: "Rhampholeon spectrum" ; Times: 1
+	Query: "specificepithet:muhlenbergii stateprovince:&#34;Virginia&#34; institutioncode:CM" ; Times: 1
+	Query: "Cloud Forest Ecuador Amphibia" ; Times: 1
+	Query: "Rana coreana" ; Times: 1
+	Query: "genus:Agalychnis specificepithet:callidryas" ; Times: 2
+	Query: "Sistrurus catenatus" ; Times: 3
+	Query: "Eumeces gilberti" ; Times: 1
+	Query: "Leptodactylus bufonius" ; Times: 1
+	Query: "naja haje" ; Times: 1
+	Query: "genus:malaclemys" ; Times: 1
+	Query: "Kinixys catalognumber:118963" ; Times: 1
+	Query: "Ambystoma jeffersonianum Maryland mappable:1" ; Times: 1
+	Query: "utah museum of natural history" ; Times: 2
+	Query: "Clemmys guttata" ; Times: 1
+	Query: "locality:Concepcion country:&#34;Argentina&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Veraguas&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "draco maculatus" ; Times: 1
+	Query: "post stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "mummy" ; Times: 4
+	Query: "spea bombifrons" ; Times: 2
+	Query: "Dendropsophus microcephalus stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "genus:Hyla specificepithet:femoralis" ; Times: 1
+	Query: "monongahela" ; Times: 1
+	Query: "catalognumber:126505" ; Times: 1
+	Query: "sibon nebulata" ; Times: 1
+	Query: "Gopherus catalognumber:62206" ; Times: 1
+	Query: "lampropeltis triangulum" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "ambystoma tigrinum stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Bufo bankorensis" ; Times: 1
+	Query: "Bufo exsul" ; Times: 2
+	Query: "agamidae (sumatra)" ; Times: 1
+	Query: "monster" ; Times: 4
+	Query: "Honduras animalia" ; Times: 1
+	Query: "Heloderma horridum 1" ; Times: 1
+	Query: "bufo punctatus" ; Times: 1
+	Query: "nerodia california" ; Times: 1
+	Query: "Eumeces skiltonianus" ; Times: 1
+	Query: "witch" ; Times: 3
+	Query: "genus:Ambystoma specificepithet:velasci" ; Times: 1
+	Query: "Anotheca spinosa" ; Times: 1
+	Query: "Acris crepitans" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "Chondrodactylus angulifer" ; Times: 3
+	Query: "Clemmys guttata Florida" ; Times: 1
+	Query: "Effingham" ; Times: 1
+	Query: "raniceps" ; Times: 1
+	Query: "Kinixys catalognumber:62213" ; Times: 1
+	Query: "Vaupes Amphibia" ; Times: 2
+	Query: "Coluber constrictor mormon" ; Times: 1
+	Query: "cm 147646" ; Times: 4
+	Query: "urosaurus" ; Times: 1
+	Query: "Gerrhosauridae" ; Times: 1
+	Query: "crocodylus" ; Times: 2
+	Query: "genus:Necturus specificepithet:maculosus" ; Times: 1
+	Query: "Echinotriton andersoni" ; Times: 1
+	Query: "phrynosoma coronatum" ; Times: 1
+	Query: "hyla euphorbiacea" ; Times: 2
+	Query: "Celestus rozellae" ; Times: 2
+	Query: "Papallacta OR Baeza AND Amphibia" ; Times: 1
+	Query: "specificepithet:acutus genus:Crocodylus country:&#34;Panama&#34;" ; Times: 1
+	Query: "Sceloporus scalaris" ; Times: 1
+	Query: "county:&#34;Ramsey&#34; stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "spea county:&#34;sonoma&#34;" ; Times: 1
+	Query: "Spea multiplicata type:specimen" ; Times: 1
+	Query: "elk" ; Times: 1
+	Query: "Carriker" ; Times: 1
+	Query: "San Francisco Ecuador Amphibia" ; Times: 1
+	Query: "specificepithet:ochrophaeus county:&#34;columbia&#34;" ; Times: 1
+	Query: "genus:Plethodon specificepithet:welleri" ; Times: 1
+	Query: "monterrey" ; Times: 1
+	Query: "gyalopion" ; Times: 1
+	Query: "devil" ; Times: 4
+	Query: "dna" ; Times: 1
+	Query: "claudius angustatus" ; Times: 1
+	Query: "gbifdatasetid:76dd8f0d-2daa-4a69-9fcd-55e04230334a" ; Times: 4
+	Query: "Gopherus" ; Times: 2
+	Query: "specificepithet:scutulatus genus:Crotalus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "&#34;Bufo microscaphus&#34; Arizona" ; Times: 1
+	Query: "ambystoma maculatum stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:versicolor genus:hyla county:&#34;union&#34; stateprovince:&#34;pennsylvania&#34;" ; Times: 1
+	Query: "cynops pyrrhogaster" ; Times: 1
+	Query: "bahamas" ; Times: 2
+	Query: "liolaemus" ; Times: 2
+	Query: "Duellman Amphibia Peru" ; Times: 1
+	Query: "Dendrobates stateprovince:&#34;Hawaii&#34;" ; Times: 2
+	Query: "Gopherus catalognumber:91285" ; Times: 1
+	Query: "genus:lampropeltis stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "testudinidae" ; Times: 2
+	Query: "116352" ; Times: 2
+	Query: "getula nigra west virginia" ; Times: 1
+	Query: "crotalus triseriatus" ; Times: 5
+	Query: "nerodia stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Cryptobranchus" ; Times: 2
+	Query: "psammophis sibilans" ; Times: 2
+	Query: "Paramesotriton caudopunctatus" ; Times: 4
+	Query: "class:Reptilia county:&#34;Real&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Cynops pyrrhogaster mappable:1" ; Times: 3
+	Query: "Plethodon wehrlei stateprovince:&#34;Virginia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Rana amurensis" ; Times: 1
+	Query: "Sceloporus megalepidurus stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "locality:Tafi country:&#34;Argentina&#34;" ; Times: 1
+	Query: "distance(location,geopoint(27.994401411046145,-81.5625))&lt;100000" ; Times: 1
+	Query: "crotalus clark county nevada" ; Times: 1
+	Query: "xantusia arizonae" ; Times: 1
+	Query: "genus:Celestus island:Hispaniola" ; Times: 1
+	Query: "class:Amphibia country:&#34;Brazil&#34; (belem) year &lt;= 1971" ; Times: 1
+	Query: "plethodon glutinosus" ; Times: 1
+	Query: "testudinidae stateprovince:&#34;Texas&#34;" ; Times: 3
+	Query: "Tzabcan" ; Times: 2
+	Query: "hemidactylium" ; Times: 1
+	Query: "Santa Cruz Island California" ; Times: 1
+	Query: "rana sierrae" ; Times: 1
+	Query: "specificepithet:Triangulum genus:Lampropeltis stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "locality:Calilegua country:&#34;Argentina&#34;" ; Times: 1
+	Query: "specificepithet:carolina genus:terrapene stateprovince:&#34;pennsylvania&#34; institutioncode:CM" ; Times: 1
+	Query: "coleonyx switaki" ; Times: 3
+	Query: "Ambystoma jeffersonianum" ; Times: 1
+	Query: "epicrates" ; Times: 1
+	Query: "Tv" ; Times: 1
+	Query: "Dendropsophus microcephalus" ; Times: 1
+	Query: "Spea multiplicata type:specimen mappable:1" ; Times: 1
+	Query: "Indian Canyon stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Cyclura" ; Times: 1
+	Query: "Essex" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CM:Herps:116520&#34;" ; Times: 1
+	Query: "specificepithet:guttata genus:clemmys institutioncode:CM" ; Times: 1
+	Query: "genus:Pseudacris specificepithet:clarkii" ; Times: 1
+	Query: "locality:Bella Vista country:&#34;Argentina&#34;" ; Times: 1
+	Query: "beaver" ; Times: 1
+	Query: "Ascaphus truei" ; Times: 1
+	Query: "baleu" ; Times: 1
+	Query: "2229" ; Times: 1
+	Query: "Homopus" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "bufo canorus" ; Times: 1
+	Query: "Cnemidophorus hyperythrus" ; Times: 1
+	Query: "archbold" ; Times: 1
+	Query: "plethodon wehrlei distance(location,geopoint(38.914544497799476,-79.77104187011719))&lt;16263" ; Times: 1
+	Query: "specificepithet:guttata genus:Clemmys stateprovince:&#34;pennsylvania&#34; institutioncode:CM" ; Times: 1
+	Query: "anolis ortonii" ; Times: 1
+	Query: "stateprovince:&#34;New Mexico&#34; (urosaurus)" ; Times: 1
+	Query: "gbifdatasetid:76dd8f0d-2daa-4a69-9fcd-55e04230334a Cryptobranchus alleganiensis alleganiensis" ; Times: 1
+	Query: "Gerrhonotus lugoi" ; Times: 1
+	Query: "specificepithet:gratiosa stateprovince:&#34;Virginia&#34; institutioncode:CM" ; Times: 2
+	Query: "gopherus" ; Times: 1
+	Query: "Dipsosaurus" ; Times: 1
+	Query: "playa escondida" ; Times: 1
+	Query: "Hypsiboas tissue:1" ; Times: 1
+	Query: "pardalis" ; Times: 1
+	Query: "persons" ; Times: 1
+	Query: "Charina trivirgata" ; Times: 1
+	Query: "crotalus polystictus" ; Times: 1
+	Query: "specificepithet:multiplicata genus:eurycea" ; Times: 1
+	Query: "Liolaemus" ; Times: 1
+	Query: "Notophthalmus viridescens" ; Times: 2
+	Query: "genus:Hemidactylium county:&#34;columbia&#34;" ; Times: 1
+	Query: "genus:Crotalus distance(location,geopoint(19.394067895396628,-99.07470703125))&lt;147296" ; Times: 1
+	Query: "country:&#34;Honduras&#34; year &gt;= 1964 year &lt;= 1965" ; Times: 1
+	Query: "Honduras" ; Times: 1
+	Query: "distance(location,geopoint(25.942239101010102,-100.16279339790344))&lt;100000" ; Times: 1
+	Query: "genus:Crotalus distance(location,geopoint(26.980828590472104,-101.09619140625))&lt;100000" ; Times: 1
+	Query: "Rhineura" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 2
+	Query: "Hemidactylium scutatum" ; Times: 1
+	Query: "stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Aneides flavipunctatus" ; Times: 1
+	Query: "senticolis intermedia" ; Times: 1
+	Query: "Bodley type:specimen" ; Times: 1
+	Query: "family:Rhacophoridae country:&#34;Malaysia&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 78 (out of 230 download events in this period)
+Total number of records downloaded: 16144
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 62
+	Country: Mexico ; Times: 5
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Kenya ; Times: 1
+	Country: Spain ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-04 ; Times: 6
+	Date: 2016-03-02 ; Times: 3
+	Date: 2016-03-12 ; Times: 4
+	Date: 2016-03-10 ; Times: 8
+	Date: 2016-03-08 ; Times: 4
+	Date: 2016-03-09 ; Times: 16
+	Date: 2016-03-06 ; Times: 6
+	Date: 2016-03-07 ; Times: 4
+	Date: 2016-03-14 ; Times: 9
+	Date: 2016-03-05 ; Times: 3
+	Date: 2016-03-11 ; Times: 4
+	Date: 2016-03-03 ; Times: 1
+	Date: 2016-03-13 ; Times: 8
+	Date: 2016-03-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Celestus rozellae" ; Times: 1
+	Query: "Cnemidophorus exsanguis" ; Times: 1
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "Papallacta OR Baeza AND Amphibia" ; Times: 1
+	Query: "stateprovince:&#34;durango&#34; (amphibia)" ; Times: 1
+	Query: "Bolitoglossa yucatana" ; Times: 1
+	Query: "Tupinambis" ; Times: 1
+	Query: "tissue" ; Times: 39
+	Query: "Bothrops asper" ; Times: 1
+	Query: "Ambystoma jeffersonianum maryland" ; Times: 1
+	Query: "Ambystoma jeffersonianum mappable:1" ; Times: 1
+	Query: "country:&#34;Colombia&#34; mappable:1" ; Times: 1
+	Query: "class:amphibia country:&#34;Uganda&#34;" ; Times: 1
+	Query: "type:specimen tissue:1" ; Times: 2
+	Query: "sphenodon" ; Times: 1
+	Query: "spea multiplicata" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Crotalus cerberus" ; Times: 1
+	Query: "Rainier class:amphibia county:&#34;Pierce&#34; stateprovince:&#34;Washington&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "lampropeltis alterna" ; Times: 1
+	Query: "anolis hastypestatus:1" ; Times: 1
+	Query: "atractus trilineatus" ; Times: 1
+	Query: "agamidae (sumatra)" ; Times: 1
+	Query: "Ptychohyla" ; Times: 1
+	Query: "Duellman Amphibia Ecuador" ; Times: 1
+	Query: "Bolitoglossa mexicana mappable:1" ; Times: 1
+	Query: "Cynops pyrrhogaster mappable:1" ; Times: 1
+	Query: "specificepithet:granulosa genus:Taricha stateprovince:&#34;washington&#34; year &gt;= 1950" ; Times: 1
+	Query: "agamidae (java)" ; Times: 1
+	Query: "Amphiuma means mappable:1" ; Times: 1
+	Query: "Cnemidophorus sexlineatus" ; Times: 1
+	Query: "spea bombifrons" ; Times: 1
+	Query: "Dendropsophus microcephalus" ; Times: 1
+	Query: "Rhineura" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "&#34;Sauromalus ater&#34; Arizona" ; Times: 1
+	Query: "Ambystoma ordinarium mappable:1" ; Times: 1
+	Query: "Bodley type:specimen" ; Times: 1
+	Query: "Kinosternon integrum" ; Times: 1
+
+
+End of report.
